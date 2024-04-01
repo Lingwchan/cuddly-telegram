@@ -1,6 +1,3 @@
-.github/workflows/cybok_hackers_rdp.yml
-
-
 name: Cybokhackers
 
 on: workflow_dispatch
